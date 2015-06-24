@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Etecsa Cienfuegos</string>
+    <string name="action_settings">Agustes</string>
+    <string name="main">Buscar</string>
+    <string name="resultado">Resultado</string>
+	<string name="buscar">Buscar</string>
+	<string name="servicio">Servicio:</string>
+	<string name="telfono">Teléfono</string>
+	<string name="central">Central</string>
+	<string name="avanzada">Búsqueda Avanzada</string>
+	<string name="par">Par:</string>
+	<string name="terminal">Terminal:</string>
+	<string name="ne">NE</string>
+	<string name="cero">000</string>
+	<string name="central_telf">Central Telefónica:</string>
+	<string name="cable">Cable:</string>
+	<string name="circ_linea">Circ|Línea:</string>
+	<string name="no_resultado">No se encontro ningun resultado.</string>
+		
+</resources>

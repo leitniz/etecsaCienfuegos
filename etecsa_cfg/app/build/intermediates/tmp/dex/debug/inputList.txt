@@ -1,0 +1,3 @@
+D:\Descargas\etecsa_cfg\app\build\intermediates\classes\debug
+D:\Descargas\etecsa_cfg\app\build\intermediates\pre-dexed\debug\classes-16467f9636c163babc56fdcab64e0a018e30bed3.jar
+D:\Descargas\etecsa_cfg\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e39170d86a7acf893c9ce15222b1e658c9a54ae9.jar
